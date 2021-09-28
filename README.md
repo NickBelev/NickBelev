@@ -1,4 +1,4 @@
-- 👋 Hi, I’m XxSierra117xX
-- 👀 I’m interested in Comp Sci, Game Design, Algorithms, Linear Algebra, etc.
-- 🌱 I’m currently learning: Java, Python, C++, 3D Modeling, Calculus, Gourmet Cuisine, Life
-- 💞️ I typically collaborate with my team on big projects, or on my own for smaller, educative ones
+- Hi, I’m Nick
+- Interested in Comp Sci, Game Design, Algorithms, Physics, Hardware Engineering, anything STEM...
+- Currently learning: Java (experienced), Python (proficient), C++, 3D Modeling, BC Calculus (proficient), Gourmet Cuisine (experienced), Life skills (meh :D)
+- Collaborate with my team on big projects that require multiple specializations and lots of code / AI training, or on my own for more excercise/learning -type projects
