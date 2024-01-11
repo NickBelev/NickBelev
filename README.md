@@ -1,5 +1,3 @@
-- Hi, I’m Nick
-- Interested in Comp Sci, Game Design, Algorithms, Physics, Hardware Engineering, anything STEM...
-- Currently learning: Java (experienced), Python (experienced), C++, 3D Modeling, Discrete Math (experienced), Computer Science(experienced), Software/Hardware Systems (experienced), Linear Algebra (experienced), Calculus (experienced), Gourmet Cuisine (experienced), Street Smarts (meh :D)
-- Collaborate with my team on big projects that require multiple specializations, front end / back end, AI training
-- Work on personal projects: game development, animations, data analysis, etc.
+- Hi, I’m Nick. I am a Computer Scientist and Junior Quantitative Analyst
+- Interested In: AI Research, Bioinformatics, Game Design, DS & Algorithms, PC Hardware and Building
+- Currently Learning: Java, Python, C++. OCaml (experienced), Blender 3D Modeling (proficient), Unity Game Development (proficient), Discrete Math (experienced), Computer Science (experienced), Software/Hardware Systems (experienced), Linear Algebra (experienced), Calculus (experienced), Quantitative Financial Risk Analysis (proficient)
