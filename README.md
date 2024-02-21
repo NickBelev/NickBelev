@@ -1,3 +1,4 @@
 - Hi, I’m Nick. I am a Computer Scientist and Junior Quantitative Analyst
-- Interested In: AI Research, Bioinformatics, Game Design, DS & Algorithms, PC Hardware and Building
-- Currently Learning: Java, Python, C++. OCaml (experienced), Blender 3D Modeling (proficient), Unity Game Development (proficient), Discrete Math (experienced), Computer Science (experienced), Software/Hardware Systems (experienced), Linear Algebra (experienced), Calculus (experienced), Quantitative Financial Risk Analysis (proficient)
+- Interested In: AI Research, Game Design, DS & Algorithms, PC Hardware and Building, Bioinformatics, Operating Systems Lore
+- Well Versed In: Java (and OOP Software Design Principles), Python (Numpy, Pandas, MatPlotLib, BeautifulSoup, PyTorch), C / C++, SQL / Microsoft SQL Server
+- Currently Working In: R / RStudio, OCaml (experienced), Blender 3D Modeling (proficient)
