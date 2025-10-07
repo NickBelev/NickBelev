@@ -1,6 +1,6 @@
 - Hi, I’m Nick. I am a Computer Scientist, Data Scientist, and Quantitative Analyst
 - Interested In: AI Research, Game Design, DS & Algorithms, PC Hardware and Building, Bioinformatics, Operating Systems Lore
 - Well Versed In: Java (and OOP Software Design Principles), Python Data Science (Numpy, Pandas, Sci-Kit, NLTK, OpenCV, MatPlotLib, BeautifulSoup, PyTorch), OCaml (and Functional Programming) R / RStudio, C / C++, SQL (MS, Oracle, SQLite, Postgres, ...)
-- Currently Working In: Banking Data Analytics--Anti Money Laundering and GenAI integration.
+- Previous Work In: Banking Data Analytics--Anti Money Laundering and GenAI integration.
 - Recent Projects In: NLP Hate Speech detection, Computer Vision gaze tracking, Python Decisionmaking AI
 - Past Work With: Python apps with FastAPI, Uvicorn, JSON client requests to query SQLite and PostgreSQL servers / databases
